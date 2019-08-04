@@ -25,7 +25,7 @@ SECRET_KEY = 'dxydj2ep+dc+v3hl#b9njugd2h=45ts_^mf@27jxo$+29^2n8&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'trydoit.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'trytodoit.pythonanywhere.com']
 
 
 # Application definition
